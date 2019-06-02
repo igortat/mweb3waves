@@ -2,11 +2,11 @@
 stepik waves web3 course
 https://stepik.org/course/54415/syllabus
 
-install: 
+install:  
 npm install
 
-build: 
+build:  
 npm run build
 
-run:
+run:  
 node server.js
