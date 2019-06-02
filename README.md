@@ -1,2 +1,12 @@
 # mweb3waves
-waves web3 course
+stepik waves web3 course
+https://stepik.org/course/54415/syllabus
+
+install: 
+npm install
+
+build: 
+npm run build
+
+run:
+node server.js
